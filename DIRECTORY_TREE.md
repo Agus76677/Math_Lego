@@ -1,4 +1,246 @@
-```text
-²ÎÊýÌ«¶à - F:/
+# Directory tree: `.`
 
-```
+- [.gitattributes](.gitattributes) (215B)
+- [gen_tree_md.py](gen_tree_md.py) (2KB)
+- **MBY_datasets/**
+  - [A.mat](MBY_datasets/A.mat) (2MB)
+  - [B.mat](MBY_datasets/B.mat) (2MB)
+  - [C.mat](MBY_datasets/C.mat) (2MB)
+  - [D.mat](MBY_datasets/D.mat) (2MB)
+  - [E.mat](MBY_datasets/E.mat) (2MB)
+  - [F.mat](MBY_datasets/F.mat) (2MB)
+  - [G.mat](MBY_datasets/G.mat) (2MB)
+  - [H.mat](MBY_datasets/H.mat) (2MB)
+  - [I.mat](MBY_datasets/I.mat) (2MB)
+  - [J.mat](MBY_datasets/J.mat) (2MB)
+  - [K.mat](MBY_datasets/K.mat) (2MB)
+  - [L.mat](MBY_datasets/L.mat) (2MB)
+  - [M.mat](MBY_datasets/M.mat) (2MB)
+  - [N.mat](MBY_datasets/N.mat) (2MB)
+  - [O.mat](MBY_datasets/O.mat) (2MB)
+  - [P.mat](MBY_datasets/P.mat) (2MB)
+- **Y_datasets/**
+  - **12kHz_DE_data/**
+    - **B/**
+      - **0007/**
+        - [B007_0.mat](Y_datasets/12kHz_DE_data/B/0007/B007_0.mat) (2MB)
+        - [B007_1.mat](Y_datasets/12kHz_DE_data/B/0007/B007_1.mat) (2MB)
+        - [B007_2.mat](Y_datasets/12kHz_DE_data/B/0007/B007_2.mat) (2MB)
+        - [B007_3.mat](Y_datasets/12kHz_DE_data/B/0007/B007_3.mat) (2MB)
+      - **0014/**
+        - [B014_0.mat](Y_datasets/12kHz_DE_data/B/0014/B014_0.mat) (2MB)
+        - [B014_1.mat](Y_datasets/12kHz_DE_data/B/0014/B014_1.mat) (2MB)
+        - [B014_2.mat](Y_datasets/12kHz_DE_data/B/0014/B014_2.mat) (2MB)
+        - [B014_3.mat](Y_datasets/12kHz_DE_data/B/0014/B014_3.mat) (2MB)
+      - **0021/**
+        - [B021_0.mat](Y_datasets/12kHz_DE_data/B/0021/B021_0.mat) (2MB)
+        - [B021_1.mat](Y_datasets/12kHz_DE_data/B/0021/B021_1.mat) (2MB)
+        - [B021_2.mat](Y_datasets/12kHz_DE_data/B/0021/B021_2.mat) (2MB)
+        - [B021_3.mat](Y_datasets/12kHz_DE_data/B/0021/B021_3.mat) (2MB)
+      - **0028/**
+        - [B028_0_(1797rpm).mat](Y_datasets/12kHz_DE_data/B/0028/B028_0_(1797rpm).mat) (698KB)
+        - [B028_1_(1772rpm).mat](Y_datasets/12kHz_DE_data/B/0028/B028_1_(1772rpm).mat) (697KB)
+        - [B028_2_(1750rpm).mat](Y_datasets/12kHz_DE_data/B/0028/B028_2_(1750rpm).mat) (699KB)
+        - [B028_3_(1730rpm).mat](Y_datasets/12kHz_DE_data/B/0028/B028_3_(1730rpm).mat) (699KB)
+    - **IR/**
+      - **0007/**
+        - [IR007_0.mat](Y_datasets/12kHz_DE_data/IR/0007/IR007_0.mat) (2MB)
+        - [IR007_1.mat](Y_datasets/12kHz_DE_data/IR/0007/IR007_1.mat) (2MB)
+        - [IR007_2.mat](Y_datasets/12kHz_DE_data/IR/0007/IR007_2.mat) (2MB)
+        - [IR007_3.mat](Y_datasets/12kHz_DE_data/IR/0007/IR007_3.mat) (2MB)
+      - **0014/**
+        - [IR014_0.mat](Y_datasets/12kHz_DE_data/IR/0014/IR014_0.mat) (2MB)
+        - [IR014_1.mat](Y_datasets/12kHz_DE_data/IR/0014/IR014_1.mat) (2MB)
+        - [IR014_2.mat](Y_datasets/12kHz_DE_data/IR/0014/IR014_2.mat) (2MB)
+        - [IR014_3.mat](Y_datasets/12kHz_DE_data/IR/0014/IR014_3.mat) (2MB)
+      - **0021/**
+        - [IR021_0.mat](Y_datasets/12kHz_DE_data/IR/0021/IR021_0.mat) (2MB)
+        - [IR021_1.mat](Y_datasets/12kHz_DE_data/IR/0021/IR021_1.mat) (2MB)
+        - [IR021_2.mat](Y_datasets/12kHz_DE_data/IR/0021/IR021_2.mat) (2MB)
+        - [IR021_3.mat](Y_datasets/12kHz_DE_data/IR/0021/IR021_3.mat) (2MB)
+      - **0028/**
+        - [IR028_0_(1797rpm).mat](Y_datasets/12kHz_DE_data/IR/0028/IR028_0_(1797rpm).mat) (686KB)
+        - [IR028_1_(1772rpm).mat](Y_datasets/12kHz_DE_data/IR/0028/IR028_1_(1772rpm).mat) (687KB)
+        - [IR028_2_(1750rpm).mat](Y_datasets/12kHz_DE_data/IR/0028/IR028_2_(1750rpm).mat) (686KB)
+        - [IR028_3_(1730rpm).mat](Y_datasets/12kHz_DE_data/IR/0028/IR028_3_(1730rpm).mat) (686KB)
+    - **OR/**
+      - **Centered/**
+        - **0007/**
+          - [OR007@6_0.mat](Y_datasets/12kHz_DE_data/OR/Centered/0007/OR007@6_0.mat) (2MB)
+          - [OR007@6_1.mat](Y_datasets/12kHz_DE_data/OR/Centered/0007/OR007@6_1.mat) (2MB)
+          - [OR007@6_2.mat](Y_datasets/12kHz_DE_data/OR/Centered/0007/OR007@6_2.mat) (2MB)
+          - [OR007@6_3.mat](Y_datasets/12kHz_DE_data/OR/Centered/0007/OR007@6_3.mat) (2MB)
+        - **0014/**
+          - [OR014@6_0.mat](Y_datasets/12kHz_DE_data/OR/Centered/0014/OR014@6_0.mat) (2MB)
+          - [OR014@6_1.mat](Y_datasets/12kHz_DE_data/OR/Centered/0014/OR014@6_1.mat) (2MB)
+          - [OR014@6_2.mat](Y_datasets/12kHz_DE_data/OR/Centered/0014/OR014@6_2.mat) (2MB)
+          - [OR014@6_3.mat](Y_datasets/12kHz_DE_data/OR/Centered/0014/OR014@6_3.mat) (2MB)
+        - **0021/**
+          - [OR021@6_0.mat](Y_datasets/12kHz_DE_data/OR/Centered/0021/OR021@6_0.mat) (2MB)
+          - [OR021@6_1.mat](Y_datasets/12kHz_DE_data/OR/Centered/0021/OR021@6_1.mat) (2MB)
+          - [OR021@6_2.mat](Y_datasets/12kHz_DE_data/OR/Centered/0021/OR021@6_2.mat) (2MB)
+          - [OR021@6_3.mat](Y_datasets/12kHz_DE_data/OR/Centered/0021/OR021@6_3.mat) (2MB)
+      - **Opposite/**
+        - **0007/**
+          - [OR007@12_0.mat](Y_datasets/12kHz_DE_data/OR/Opposite/0007/OR007@12_0.mat) (2MB)
+          - [OR007@12_1.mat](Y_datasets/12kHz_DE_data/OR/Opposite/0007/OR007@12_1.mat) (2MB)
+          - [OR007@12_2.mat](Y_datasets/12kHz_DE_data/OR/Opposite/0007/OR007@12_2.mat) (2MB)
+          - [OR007@12_3.mat](Y_datasets/12kHz_DE_data/OR/Opposite/0007/OR007@12_3.mat) (2MB)
+        - **0021/**
+          - [OR021@12_0.mat](Y_datasets/12kHz_DE_data/OR/Opposite/0021/OR021@12_0.mat) (2MB)
+          - [OR021@12_1.mat](Y_datasets/12kHz_DE_data/OR/Opposite/0021/OR021@12_1.mat) (2MB)
+          - [OR021@12_2.mat](Y_datasets/12kHz_DE_data/OR/Opposite/0021/OR021@12_2.mat) (2MB)
+          - [OR021@12_3.mat](Y_datasets/12kHz_DE_data/OR/Opposite/0021/OR021@12_3.mat) (2MB)
+      - **Orthogonal/**
+        - **0007/**
+          - [OR007@3_0.mat](Y_datasets/12kHz_DE_data/OR/Orthogonal/0007/OR007@3_0.mat) (2MB)
+          - [OR007@3_1.mat](Y_datasets/12kHz_DE_data/OR/Orthogonal/0007/OR007@3_1.mat) (2MB)
+          - [OR007@3_2.mat](Y_datasets/12kHz_DE_data/OR/Orthogonal/0007/OR007@3_2.mat) (2MB)
+          - [OR007@3_3.mat](Y_datasets/12kHz_DE_data/OR/Orthogonal/0007/OR007@3_3.mat) (2MB)
+        - **0021/**
+          - [OR021@3_0.mat](Y_datasets/12kHz_DE_data/OR/Orthogonal/0021/OR021@3_0.mat) (2MB)
+          - [OR021@3_1.mat](Y_datasets/12kHz_DE_data/OR/Orthogonal/0021/OR021@3_1.mat) (2MB)
+          - [OR021@3_2.mat](Y_datasets/12kHz_DE_data/OR/Orthogonal/0021/OR021@3_2.mat) (2MB)
+          - [OR021@3_3.mat](Y_datasets/12kHz_DE_data/OR/Orthogonal/0021/OR021@3_3.mat) (2MB)
+  - **12kHz_FE_data/**
+    - **B/**
+      - **0007/**
+        - [B007_0.mat](Y_datasets/12kHz_FE_data/B/0007/B007_0.mat) (2MB)
+        - [B007_1.mat](Y_datasets/12kHz_FE_data/B/0007/B007_1.mat) (2MB)
+        - [B007_2.mat](Y_datasets/12kHz_FE_data/B/0007/B007_2.mat) (2MB)
+        - [B007_3.mat](Y_datasets/12kHz_FE_data/B/0007/B007_3.mat) (2MB)
+      - **0014/**
+        - [B014_0.mat](Y_datasets/12kHz_FE_data/B/0014/B014_0.mat) (2MB)
+        - [B014_1.mat](Y_datasets/12kHz_FE_data/B/0014/B014_1.mat) (2MB)
+        - [B014_2.mat](Y_datasets/12kHz_FE_data/B/0014/B014_2.mat) (2MB)
+        - [B014_3.mat](Y_datasets/12kHz_FE_data/B/0014/B014_3.mat) (2MB)
+      - **0021/**
+        - [B021_0.mat](Y_datasets/12kHz_FE_data/B/0021/B021_0.mat) (2MB)
+        - [B021_1.mat](Y_datasets/12kHz_FE_data/B/0021/B021_1.mat) (2MB)
+        - [B021_2.mat](Y_datasets/12kHz_FE_data/B/0021/B021_2.mat) (2MB)
+        - [B021_3.mat](Y_datasets/12kHz_FE_data/B/0021/B021_3.mat) (2MB)
+    - **IR/**
+      - **0007/**
+        - [IR007_0.mat](Y_datasets/12kHz_FE_data/IR/0007/IR007_0.mat) (2MB)
+        - [IR007_1.mat](Y_datasets/12kHz_FE_data/IR/0007/IR007_1.mat) (2MB)
+        - [IR007_2.mat](Y_datasets/12kHz_FE_data/IR/0007/IR007_2.mat) (2MB)
+        - [IR007_3.mat](Y_datasets/12kHz_FE_data/IR/0007/IR007_3.mat) (2MB)
+      - **0014/**
+        - [IR014_0.mat](Y_datasets/12kHz_FE_data/IR/0014/IR014_0.mat) (2MB)
+        - [IR014_1.mat](Y_datasets/12kHz_FE_data/IR/0014/IR014_1.mat) (2MB)
+        - [IR014_2.mat](Y_datasets/12kHz_FE_data/IR/0014/IR014_2.mat) (2MB)
+        - [IR014_3.mat](Y_datasets/12kHz_FE_data/IR/0014/IR014_3.mat) (2MB)
+      - **0021/**
+        - [IR021_0.mat](Y_datasets/12kHz_FE_data/IR/0021/IR021_0.mat) (2MB)
+        - [IR021_1.mat](Y_datasets/12kHz_FE_data/IR/0021/IR021_1.mat) (2MB)
+        - [IR021_2.mat](Y_datasets/12kHz_FE_data/IR/0021/IR021_2.mat) (2MB)
+        - [IR021_3.mat](Y_datasets/12kHz_FE_data/IR/0021/IR021_3.mat) (2MB)
+    - **OR/**
+      - **Centered/**
+        - **0007/**
+          - [OR007@6_0.mat](Y_datasets/12kHz_FE_data/OR/Centered/0007/OR007@6_0.mat) (2MB)
+          - [OR007@6_1.mat](Y_datasets/12kHz_FE_data/OR/Centered/0007/OR007@6_1.mat) (2MB)
+          - [OR007@6_2.mat](Y_datasets/12kHz_FE_data/OR/Centered/0007/OR007@6_2.mat) (2MB)
+          - [OR007@6_3.mat](Y_datasets/12kHz_FE_data/OR/Centered/0007/OR007@6_3.mat) (2MB)
+        - **0014/**
+          - [OR014@6_0.mat](Y_datasets/12kHz_FE_data/OR/Centered/0014/OR014@6_0.mat) (2MB)
+        - **0021/**
+          - [OR021@6_0.mat](Y_datasets/12kHz_FE_data/OR/Centered/0021/OR021@6_0.mat) (2MB)
+      - **Opposite/**
+        - **0007/**
+          - [OR007@12_0.mat](Y_datasets/12kHz_FE_data/OR/Opposite/0007/OR007@12_0.mat) (2MB)
+          - [OR007@12_1.mat](Y_datasets/12kHz_FE_data/OR/Opposite/0007/OR007@12_1.mat) (2MB)
+          - [OR007@12_2.mat](Y_datasets/12kHz_FE_data/OR/Opposite/0007/OR007@12_2.mat) (2MB)
+          - [OR007@12_3.mat](Y_datasets/12kHz_FE_data/OR/Opposite/0007/OR007@12_3.mat) (2MB)
+      - **Orthogonal/**
+        - **0007/**
+          - [OR007@3_0.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0007/OR007@3_0.mat) (2MB)
+          - [OR007@3_1.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0007/OR007@3_1.mat) (2MB)
+          - [OR007@3_2.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0007/OR007@3_2.mat) (2MB)
+          - [OR007@3_3.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0007/OR007@3_3.mat) (2MB)
+        - **0014/**
+          - [OR014@3_0.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0014/OR014@3_0.mat) (2MB)
+          - [OR014@3_1.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0014/OR014@3_1.mat) (3MB)
+          - [OR014@3_2.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0014/OR014@3_2.mat) (2MB)
+          - [OR014@3_3.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0014/OR014@3_3.mat) (2MB)
+        - **0021/**
+          - [OR021@3_1.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0021/OR021@3_1.mat) (2MB)
+          - [OR021@3_2.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0021/OR021@3_2.mat) (2MB)
+          - [OR021@3_3.mat](Y_datasets/12kHz_FE_data/OR/Orthogonal/0021/OR021@3_3.mat) (2MB)
+  - **48kHz_DE_data/**
+    - **B/**
+      - **0007/**
+        - [B007_0.mat](Y_datasets/48kHz_DE_data/B/0007/B007_0.mat) (2MB)
+        - [B007_1.mat](Y_datasets/48kHz_DE_data/B/0007/B007_1.mat) (2MB)
+        - [B007_2.mat](Y_datasets/48kHz_DE_data/B/0007/B007_2.mat) (2MB)
+        - [B007_3.mat](Y_datasets/48kHz_DE_data/B/0007/B007_3.mat) (2MB)
+      - **0014/**
+        - [B014_0.mat](Y_datasets/48kHz_DE_data/B/0014/B014_0.mat) (2MB)
+        - [B014_1.mat](Y_datasets/48kHz_DE_data/B/0014/B014_1.mat) (2MB)
+        - [B014_2.mat](Y_datasets/48kHz_DE_data/B/0014/B014_2.mat) (2MB)
+        - [B014_3.mat](Y_datasets/48kHz_DE_data/B/0014/B014_3.mat) (2MB)
+      - **0021/**
+        - [B021_0.mat](Y_datasets/48kHz_DE_data/B/0021/B021_0.mat) (2MB)
+        - [B021_1.mat](Y_datasets/48kHz_DE_data/B/0021/B021_1.mat) (2MB)
+        - [B021_2.mat](Y_datasets/48kHz_DE_data/B/0021/B021_2.mat) (2MB)
+        - [B021_3.mat](Y_datasets/48kHz_DE_data/B/0021/B021_3.mat) (2MB)
+    - **IR/**
+      - **0007/**
+        - [IR007_0.mat](Y_datasets/48kHz_DE_data/IR/0007/IR007_0.mat) (3MB)
+        - [IR007_1.mat](Y_datasets/48kHz_DE_data/IR/0007/IR007_1.mat) (3MB)
+        - [IR007_2.mat](Y_datasets/48kHz_DE_data/IR/0007/IR007_2.mat) (3MB)
+        - [IR007_3.mat](Y_datasets/48kHz_DE_data/IR/0007/IR007_3.mat) (3MB)
+      - **0014/**
+        - [IR014_0.mat](Y_datasets/48kHz_DE_data/IR/0014/IR014_0.mat) (742KB)
+        - [IR014_1.mat](Y_datasets/48kHz_DE_data/IR/0014/IR014_1.mat) (2MB)
+        - [IR014_2.mat](Y_datasets/48kHz_DE_data/IR/0014/IR014_2.mat) (2MB)
+        - [IR014_3.mat](Y_datasets/48kHz_DE_data/IR/0014/IR014_3.mat) (2MB)
+      - **0021/**
+        - [IR021_0.mat](Y_datasets/48kHz_DE_data/IR/0021/IR021_0.mat) (3MB)
+        - [IR021_1.mat](Y_datasets/48kHz_DE_data/IR/0021/IR021_1.mat) (3MB)
+        - [IR021_2.mat](Y_datasets/48kHz_DE_data/IR/0021/IR021_2.mat) (3MB)
+        - [IR021_3.mat](Y_datasets/48kHz_DE_data/IR/0021/IR021_3.mat) (3MB)
+    - **OR/**
+      - **Centered/**
+        - **0007/**
+          - [OR007@6_0.mat](Y_datasets/48kHz_DE_data/OR/Centered/0007/OR007@6_0.mat) (3MB)
+          - [OR007@6_1.mat](Y_datasets/48kHz_DE_data/OR/Centered/0007/OR007@6_1.mat) (3MB)
+          - [OR007@6_2.mat](Y_datasets/48kHz_DE_data/OR/Centered/0007/OR007@6_2.mat) (3MB)
+          - [OR007@6_3.mat](Y_datasets/48kHz_DE_data/OR/Centered/0007/OR007@6_3.mat) (3MB)
+        - **0014/**
+          - [OR014@6_0.mat](Y_datasets/48kHz_DE_data/OR/Centered/0014/OR014@6_0.mat) (2MB)
+          - [OR014@6_1.mat](Y_datasets/48kHz_DE_data/OR/Centered/0014/OR014@6_1.mat) (2MB)
+          - [OR014@6_2.mat](Y_datasets/48kHz_DE_data/OR/Centered/0014/OR014@6_2.mat) (2MB)
+          - [OR014@6_3.mat](Y_datasets/48kHz_DE_data/OR/Centered/0014/OR014@6_3.mat) (2MB)
+        - **0021/**
+          - [OR021@6_0.mat](Y_datasets/48kHz_DE_data/OR/Centered/0021/OR021@6_0.mat) (2MB)
+          - [OR021@6_1.mat](Y_datasets/48kHz_DE_data/OR/Centered/0021/OR021@6_1.mat) (2MB)
+          - [OR021@6_2.mat](Y_datasets/48kHz_DE_data/OR/Centered/0021/OR021@6_2.mat) (2MB)
+          - [OR021@6_3.mat](Y_datasets/48kHz_DE_data/OR/Centered/0021/OR021@6_3.mat) (2MB)
+      - **Opposite/**
+        - **0007/**
+          - [OR007@12_0.mat](Y_datasets/48kHz_DE_data/OR/Opposite/0007/OR007@12_0.mat) (2MB)
+          - [OR007@12_1.mat](Y_datasets/48kHz_DE_data/OR/Opposite/0007/OR007@12_1.mat) (3MB)
+          - [OR007@12_2.mat](Y_datasets/48kHz_DE_data/OR/Opposite/0007/OR007@12_2.mat) (2MB)
+          - [OR007@12_3.mat](Y_datasets/48kHz_DE_data/OR/Opposite/0007/OR007@12_3.mat) (2MB)
+        - **0021/**
+          - [OR021@12_0.mat](Y_datasets/48kHz_DE_data/OR/Opposite/0021/OR021@12_0.mat) (1MB)
+          - [OR021@12_1.mat](Y_datasets/48kHz_DE_data/OR/Opposite/0021/OR021@12_1.mat) (2MB)
+          - [OR021@12_2.mat](Y_datasets/48kHz_DE_data/OR/Opposite/0021/OR021@12_2.mat) (2MB)
+          - [OR021@12_3.mat](Y_datasets/48kHz_DE_data/OR/Opposite/0021/OR021@12_3.mat) (2MB)
+      - **Orthogonal/**
+        - **0007/**
+          - [OR007@3_0.mat](Y_datasets/48kHz_DE_data/OR/Orthogonal/0007/OR007@3_0.mat) (2MB)
+          - [OR007@3_1.mat](Y_datasets/48kHz_DE_data/OR/Orthogonal/0007/OR007@3_1.mat) (3MB)
+          - [OR007@3_2.mat](Y_datasets/48kHz_DE_data/OR/Orthogonal/0007/OR007@3_2.mat) (3MB)
+          - [OR007@3_3.mat](Y_datasets/48kHz_DE_data/OR/Orthogonal/0007/OR007@3_3.mat) (3MB)
+        - **0021/**
+          - [OR021@3_0.mat](Y_datasets/48kHz_DE_data/OR/Orthogonal/0021/OR021@3_0.mat) (2MB)
+          - [OR021@3_1.mat](Y_datasets/48kHz_DE_data/OR/Orthogonal/0021/OR021@3_1.mat) (2MB)
+          - [OR021@3_2.mat](Y_datasets/48kHz_DE_data/OR/Orthogonal/0021/OR021@3_2.mat) (2MB)
+          - [OR021@3_3.mat](Y_datasets/48kHz_DE_data/OR/Orthogonal/0021/OR021@3_3.mat) (2MB)
+  - **48kHz_Normal_data/**
+    - [N_0.mat](Y_datasets/48kHz_Normal_data/N_0.mat) (3MB)
+    - [N_1_(1772rpm).mat](Y_datasets/48kHz_Normal_data/N_1_(1772rpm).mat) (4MB)
+    - [N_2_(1750rpm).mat](Y_datasets/48kHz_Normal_data/N_2_(1750rpm).mat) (4MB)
+    - [N_3.mat](Y_datasets/48kHz_Normal_data/N_3.mat) (4MB)
