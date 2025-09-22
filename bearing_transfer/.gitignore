@@ -1,0 +1,8 @@
+__pycache__/
+outputs/*
+!outputs/*/
+!outputs/**/.gitkeep
+reports/report.md
+*.pkl
+*.png
+*.svg
